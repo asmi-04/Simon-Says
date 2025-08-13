@@ -8,6 +8,10 @@ A simple and fun web-based **Simon Says game** built using **HTML, CSS, and Java
 - Animation for feedback
 - Increasing difficulty with each level
 
+## Pictures
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3ebda236-30e3-4c1e-ae95-15d67b02f625" />
+
+
 ## 🖥️ Tech Stack
 
 - **HTML**
